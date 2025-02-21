@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsTech</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cari_article_anda">Cari Article Anda</string>
+    <string name="news_articles_today">News Articles Today</string>
+    <string name="see_article_detail">See article for more details</string>
+    <string name="history">History</string>
+    <string name="show">Show</string>
+    <string name="remove">Remove</string>
+    <string name="cancel">Cancel</string>
+    <string name="author_app">Muhammad Rafli Gimnastiar</string>
+    <string name="history_article">History Article</string>
+    <string name="remove_question">Remove this history data?</string>
+    <string name="make_sure_remove_question">The history data cannot be restored soon</string>
+</resources>
