@@ -7,6 +7,7 @@ An application for displaying articles using the public API from newsapi.org, wi
 - Kotlin (2.0.0)
 - Android Gradle Plugin (8.8.0)
 - Material Design (1.12.0)
+
 🔹 Android Jetpack Components
 - Core KTX (1.15.0)
 - AppCompat (1.7.0)
@@ -17,18 +18,24 @@ An application for displaying articles using the public API from newsapi.org, wi
 - CardView (1.0.0)
 - RecyclerView (1.3.2)
 - Shimmer Effect (Facebook) (0.5.0)
+
 🔹 Dependency Injection
 - Hilt (2.48)
+
 🔹 Database & Persistence
 - Room Database (2.6.1)
+
 🔹 Networking
 - Retrofit (2.9.0)
 - Gson Converter (untuk JSON parsing)
 - OkHttp Logging Interceptor (4.9.0)
+
 🔹 Kotlin Coroutines & Asynchronous Processing
 - Coroutines Core & Android (1.7.1)
+
 🔹 Navigation & Safe Args
 - Navigation Component (Fragment & UI KTX) (2.7.7 - 2.8.7)
+
 🔹 Plugins
 - Kotlin Parcelize
 - Safe Args untuk Navigation
